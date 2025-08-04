@@ -1,6 +1,6 @@
 # SalesServe: Intelligent Sales Forecasting & Conversational Support Bot
 
-**SalesServe** is a dual-function AI platform that delivers both **sales forecasting** and **intelligent voice-based customer support**. This system enables smart business insights and real-time interaction through speech and text
+**SalesServe** is a dual-function AI platform that delivers both **sales forecasting** and **intelligent voice-based customer support**. This system enables smart business insights and real-time interaction through speech and text.
 
 ---
 
